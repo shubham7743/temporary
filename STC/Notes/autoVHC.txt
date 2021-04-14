@@ -1,0 +1,37 @@
+autoVHC:
+-> It is a cloud based electronic vehicle health check platform that has a proven track record of improving workshop sales.
+
+-> The system delivers a robust and professional approach to inspecting, pricing and selling the additional work identified 
+   by the car health checks through your workshop.
+
+-> As a result of the in-built process flows the eVHC system delivers results that are better, cheaper and faster than a 
+   paper based VHC system.
+
+autoVIEW:
+-> It brings your electronic vehicle health check to life with the addition of video and photo assets.
+
+-> Technicians use the same inspection tool to add photo or video evidence of the fault found to your eVHC record. 
+
+-> Using the same tool for both inspection and video reduces the time and complexity of operating a separate video system. 
+
+-> Video builds customer trust, making the sales discussion easier for service advisors, and give customers additional 
+   information to form their purchase decision.
+
+autoPREDICTIVE:
+-> It's a valuable addition to the core autoVHC system, improving sales of items identified as needing attention before the next scheduled visit.
+
+-> The system automates email and SMS reminders to your customers when the work identified in the VHC is due.
+
+-> This increases customer visits and workshop revenue.
+
+-> At the same time, it also provides customers with a helpful and timely reminder of their vehicle maintenance needs. 
+
+autoANALYTICS:
+-> It's your eVHC performance dashboard
+-> It provides ease to understand reporting suite identifying your car health check performance.
+
+-> The system builds transparency and accountability into each step of the eVHC process.
+
+-> In addition, the tool tracks the performance of individual technicians and service advisors.
+
+-> This allows underperformance concerns to be quickly identified and addressed.
